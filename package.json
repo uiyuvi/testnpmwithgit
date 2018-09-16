@@ -1,0 +1,19 @@
+{
+  "name": "testnpmwithgit",
+  "version": "1.0.0",
+  "description": "testing npm with git feature",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uiyuvi/testnpmwithgit.git"
+  },
+  "author": "uiyuvi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uiyuvi/testnpmwithgit/issues"
+  },
+  "homepage": "https://github.com/uiyuvi/testnpmwithgit#readme"
+}
